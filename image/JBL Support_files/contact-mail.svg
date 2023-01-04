@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Illustrations / Contact / Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="48.8990039%" x2="100%" y2="48.8990048%" id="linearGradient-1">
+            <stop stop-color="#5BB4FD" offset="0%"></stop>
+            <stop stop-color="#C740A2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-47.5588296%" y1="48.8990039%" x2="138.761887%" y2="48.8990039%" id="linearGradient-2">
+            <stop stop-color="#5BB4FD" offset="0%"></stop>
+            <stop stop-color="#C740A2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Illustrations-/-Contact-/-Mail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="url(#linearGradient-1)" stroke-width="2" cx="60" cy="60" r="59"></circle>
+        <path d="M84.3895452,46.6103889 C85.7419241,48.204985 86.6704231,50.435401 86.6704231,52.2923989 L86.6704231,79.6326567 C86.6704231,82.1355669 84.6216699,84.1843201 82.1187596,84.1843201 L36.5516634,84.1843201 C34.0487532,84.1843201 32,82.1355669 32,79.6326567 L32,52.2823066 C32,50.4253086 32.9486837,48.1948926 34.2808779,46.6002966 L34.2808779,52.0199047 L54.5060076,68.914549 C55.7776475,70.1861889 57.4933522,70.9027479 59.3301653,70.9027479 C61.1669785,70.9027479 62.8826831,70.1962813 64.0130297,69.0457499 L84.3895452,52.0299971 L84.3895452,46.6103889 Z M62.559727,67.2896758 C60.7935605,69.0760271 57.886955,69.0760271 56.1207885,67.2896758 L36.5617558,50.9501124 L36.5617558,43.1688873 C36.5617558,40.6659771 38.610509,38.6172239 41.1134192,38.6172239 L45.6650827,38.6172239 L55.5455228,32.0369921 C57.6346455,30.654336 61.04587,30.654336 63.1349926,32.0369921 L73.0154328,38.6172239 L77.5670962,38.6172239 C80.0700065,38.6172239 82.1187596,40.6659771 82.1187596,43.1688873 L82.1187596,50.9501124 L62.559727,67.2896758 Z" id="Combined-Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+    </g>
+</svg>
